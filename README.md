@@ -51,7 +51,7 @@ jupyter notebook
 ```
 
 ## Web App
-Follow this link: [link](and link)
+Follow this link:
 
 <!-- ![Input](assets/input.jpg)  
 *Input Page*   
@@ -70,4 +70,7 @@ built during my free time as a jobless loafer. More projects or anything else, p
 [LinkedIn](https:///www.linkedin.com/in/daud-ma)
 
 #### Author's Note (Just Ignore)
-gitignore, please. 
+- Create folders and files: gitignore, readme
+- Create .venv
+- Launch git
+- Create GitHub repo; add as a remote; then do push there.  
